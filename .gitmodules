@@ -1,3 +1,6 @@
 [submodule "control"]
 	path = control
 	url = git@github.com:generalroboticslab/dukeHumanoidHardwareControl.git
+[submodule "legged_env"]
+	path = legged_env
+	url = git@github.com:generalroboticslab/legged_env.git
