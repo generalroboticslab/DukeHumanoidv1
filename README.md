@@ -23,6 +23,12 @@ project page: [Project](http://generalroboticslab.com/DukeHumanoidv1)
 
 Hardware wiki: [Duke Humanoid V1](https://www.notion.so/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89)
 
-simulation code: [legged_env](legged_env/README.md)
-
-Hardware control code [control](control/README.md)
+## project structure
+```
+.
+├── control     # contains the hardware control code
+├── doc
+├── legged_env  # contains the simulation code
+├── LICENSE
+└── README.md
+```
