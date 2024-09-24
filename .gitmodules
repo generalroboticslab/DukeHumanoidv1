@@ -1,0 +1,3 @@
+[submodule "control"]
+	path = control
+	url = git@github.com:generalroboticslab/dukeHumanoidHardwareControl.git
