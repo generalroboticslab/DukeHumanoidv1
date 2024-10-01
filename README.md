@@ -21,10 +21,25 @@ We present the Duke Humanoid, an open-source 10-degrees-of-freedom humanoid, as 
 <a href="[YOUR_YOUTUBE_VIDEO_URL](https://www.youtube.com/watch?v=RZYkb09JurU)">
   <img src="doc/image/website_image_graph.jpg" width="600"> 
 </a>
-🌐 <a href="http://generalroboticslab.com/DukeHumanoidv1/" target="_blank">website</a>  |  
-🎥 <a href="https://www.youtube.com/watch?v=RZYkb09JurU" target="_blank">video</a>  |  
-🔧 <a href="https://www.notion.so/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89" target="_blank">hardware wiki</a>
 
+### 🌐 <a href="http://generalroboticslab.com/DukeHumanoidv1/" target="_blank">Project website</a>  |  🎥 <a href="https://www.youtube.com/watch?v=RZYkb09JurU" target="_blank">Video</a>  |  📄 <a href="http://arxiv.org/abs/2409.19795" target="_blank">Paper</a>  |  🔧 <a href="https://www.notion.so/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89" target="_blank">Hardware wiki</a> 
+
+
+## Citation
+
+If you find our paper or codebase helpful, please consider citing:
+
+```
+@misc{xia2024dukehumanoiddesigncontrol,
+      title={The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics}, 
+      author={Boxi Xia and Bokuan Li and Jacob Lee and Michael Scutari and Boyuan Chen},
+      year={2024},
+      eprint={2409.19795},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.19795}, 
+}
+```
 
 ## project structure
 ```
